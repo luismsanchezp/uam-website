@@ -1,0 +1,114 @@
+body {
+    font-family: Fira Sans, sans-serif;
+}
+
+header nav a img {
+    width: 6rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid red;
+    margin: 5px;
+    padding: 10px;
+}
+
+#top-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2b4e84;
+}
+
+#top-menu .menu-logo {
+    padding-left: 1rem;
+}
+
+#top-menu .buttons {
+    padding-right: 1rem;
+}
+
+#top-menu a {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+
+#top-menu a:hover {
+    color: lightgrey;
+    background-color: #027dc0;
+}
+
+#top-menu a:active {
+    font-weight: bold;
+}
+
+table tr th {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+header {
+    padding-bottom: 2rem;
+}
+
+.buttons {
+    align-items: right;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.footer-links a {
+    text-decoration: none;
+}
+
+footer .row {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-links img {
+    width: 2rem;
+}
+
+li ul .first-group {
+
+}
+
+li ul .last-group {
+
+}
+
+li ul .pagination {
+
+}
+
+li ul .first-group:hover {
+
+}
+
+li ul .last-group:hover {
+
+}
+
+li ul .pagination:hover {
+
+}
+
+li ul .first-group:active {
+
+}
+
+li ul .last-group:active {
+
+}
+
+li ul .pagination:active {
+
+}
